@@ -37,10 +37,9 @@ export default function LoginPage() {
           <img
             src="https://vibe.filesafe.space/1783600225777213225/attachments/c4378c64-e397-4302-8eb0-9bd2d8f57e57.png"
             alt="AxiomateAI"
-            className="h-8 mx-auto mb-6 object-contain"
+            className="h-14 mx-auto mb-8 object-contain"
           />
-          <h1 className="text-xl font-semibold text-foreground">Sign in</h1>
-          <p className="mt-1 text-sm text-muted-foreground">
+          <p className="mt-5 text-sm text-muted-foreground">
             Axiomate Proposals
           </p>
         </div>
